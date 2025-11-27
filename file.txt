@@ -1,2 +1,3 @@
 Initial content for A
 Add content for commit B
+Add content for commit C
