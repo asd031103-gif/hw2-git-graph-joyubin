@@ -2,3 +2,4 @@ Initial content for A
 Add content for commit B
 Add content for commit C
 Content for commit G in master
+Content for commit H in master
