@@ -1,1 +1,2 @@
 Content for commit X in hotfix
+Content for commit Y in hotfix
